@@ -9,3 +9,4 @@ While it's understood that many factors beyond SAT scores can influence a studen
 
 For this purpose, the **coefficient** and **intercept** of the model will be derived, enabling the university to identify candidates who are more likely to perform well academically, based on their SAT performance.
 
+This is an older project (completed in February 2024) that is now being uploaded to GitHub
